@@ -1,5 +1,8 @@
 # Boas-vindas ao repositório do projeto de teste CRUD de Usuários utilizando Quarkus
 
+<img width="1039" height="699" alt="image" src="https://github.com/user-attachments/assets/1b85613f-bb09-425c-b1fb-f533fcf8c414" />
+
+
 Seja muito bem-vindo ao repositório do Projeto de teste CRUD de Usuários utilizando Quarkus, Aqui você encontrará informações sobre o que foi desenvolvido neste teste, bem como os principais aprendizados adquiridos durante o processo. Para explorar o conteúdo, basta clicar nas seções abaixo. Boa leitura!
 
 <br/>
