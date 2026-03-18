@@ -1,0 +1,11 @@
+com\robson\service\UserService.class
+com\robson\dto\UserResponseDto.class
+com\robson\entity\User.class
+com\robson\dto\PagedResponseDto.class
+com\robson\filter\RequestLoggingFilter.class
+com\robson\resource\UserResource.class
+com\robson\mapper\UserMapper.class
+com\robson\repository\UserRepository.class
+com\robson\dto\UserRequestDto.class
+com\robson\exception\GlobalExceptionHandler.class
+com\robson\exception\ResourceNotFoundException.class
